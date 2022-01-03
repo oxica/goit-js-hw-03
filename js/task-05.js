@@ -42,3 +42,4 @@ const getAllPropValues = function (arr, prop) {
 console.log(getAllPropValues(products, "name")); // ['Радар', 'Сканер', 'Дроид', 'Захват']
 console.log(getAllPropValues(products, "quantity")); // [4, 3, 7, 2]
 console.log(getAllPropValues(products, "category")); // []
+
